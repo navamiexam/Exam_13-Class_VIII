@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="CF42B157-D2B1-4DCA-BE8E-3D8DFE94C226" version="0">
+	<info>
+		<title>Exam 13 Class VIII</title>
+		<description/>
+	</info>
+	<files index="id19" thumbnail="id15" totalSize="1912485">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/html5-unsupported.html</file>
+		<file id="id7">data/html5.png</file>
+		<file id="id8">data/images/img-008eb841ffc5f130064872c832ca7c8e3171003c.png</file>
+		<file id="id9">data/images/img-1719e656bc95e623e6c056de3603df4e27835771.jpg</file>
+		<file id="id10">data/images/img-8b467e01370c19cb94b06f805b4e741015895bc8.png</file>
+		<file id="id11">data/images/img-e414dcd1af367e4a167d3aed8de28d4b65218b4e.png</file>
+		<file id="id12">data/images/img-ef1a26e4cd5f2068d4404e6884f9efb3b8a03002.png</file>
+		<file id="id13">data/ismplayer/app_store2x.png</file>
+		<file id="id14">data/ismplayer/play.svg</file>
+		<file id="id15">data/ismplayer/preview.png</file>
+		<file id="id16">data/ismplayer/style.css</file>
+		<file id="id17">data/ismplayer/style_mini.css</file>
+		<file id="id18">data/player.js</file>
+		<file id="id19">index.html</file>
+		<file id="id20">ismplayer.html</file>
+		<file id="id21">preview.png</file>
+	</files>
+</presentation>
+
